@@ -1,0 +1,6 @@
+DDL => Data Definition Language
+
+
+
+
+
