@@ -1,0 +1,8 @@
+=================== S I G L A S ===================
+
+DDL - Data Definition Language
+SQL - Structured Query Language (Linguagem Estruturada de Consulta)
+DBA - Database Administration
+AD - Analista de Dados
+SGBD - Sistema de Gerenciamento de Banco de Dados
+DBMS - Data Base Management System
