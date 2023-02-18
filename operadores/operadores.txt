@@ -1,10 +1,21 @@
 OPERADORES LÓGICOS =
-
+    AND
+    OR
+    NOT
 
 OPERADORES RELACIONAIS =
-
+    =
+    >
+    >=
+    <
+    <=
+    <>
 
 
 FUNÇÕES DE AGREGAÇÃO =
-
+    MIN
+    MAX
+    SUM
+    AVG
+    COUNT
 
