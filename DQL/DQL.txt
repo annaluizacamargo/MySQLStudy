@@ -1,0 +1,6 @@
+DQL => Data Query Language SELECT
+
+FROM
+WHERE
+GROUP BY
+ORDER BY
