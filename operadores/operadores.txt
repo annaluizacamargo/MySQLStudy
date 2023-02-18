@@ -11,7 +11,6 @@ OPERADORES RELACIONAIS =
     <=
     <>
 
-
 FUNÇÕES DE AGREGAÇÃO =
     MIN
     MAX
@@ -19,3 +18,9 @@ FUNÇÕES DE AGREGAÇÃO =
     AVG
     COUNT
 
+TIPOS DE DADOS =
+    CHAR(n)
+    DATE
+    LONG
+    VARCHAR2(n)
+    NUMBER(n,d)
