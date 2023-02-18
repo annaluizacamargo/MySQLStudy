@@ -1,6 +1,14 @@
 DML => Data Manipulation Language
 
+INSERT
+UPDATE
+SELECT
+DELETE
 
-
-
-
+A ordem das cláusulas na declaração SELECT.
+    SELECT coluna(s)
+    FROM tabela(s)
+    WHERE condição linha
+    GROUP BY coluna(s)
+    HAVING condição de grupo de linhas
+    ORDER BY coluna(s);
