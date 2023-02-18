@@ -1,5 +1,18 @@
 DDL => Data Definition Language
 
 CREATE TABLE nome_table
+    CONSTRAINT
+    PRIMARY KEY (PK)
+    UNIQUE (UN)
+    FOREIGN KEY (FK)
+    CHECK (CK)
+    NOT NULL
+
 ALTER TABLE nome_table
+
 DROP TABLE nome_table
+
+
+ADD - incluir
+DROP - excluir
+MODIFY - modificar
