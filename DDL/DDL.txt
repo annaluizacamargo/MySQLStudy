@@ -1,6 +1,5 @@
 DDL => Data Definition Language
 
-
-
-
-
+CREATE TABLE nome_table
+ALTER TABLE nome_table
+DROP TABLE nome_table
